@@ -1,0 +1,2 @@
+• Initial build for android-12L
+• Based on arrow's device-tree
