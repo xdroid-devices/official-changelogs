@@ -1,0 +1,7 @@
+• Import lmkd props from google gki 
+• Enable VoLTE support for Three 
+• Enable VoLTE support for Indosat and XL Axiata 
+• CarrierConfig Enable VoLTE support for Telkomsel (Indonesia) 
+• CarrierConfig update from 5800 QSSI
+• Enable VoLTE and VoWIFI for all
+• Adjust Large Keyguard Clock  margin
